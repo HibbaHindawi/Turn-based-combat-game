@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\Ny mapp\\Turn-based-combat-game\\Turn-based-combat-game.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\Ny mapp\\Turn-based-combat-game\\Turn-based-combat-game\\Turn-based-combat-game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\Ny mapp\\Turn-based-combat-game\\Turn-based-combat-game.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Ny mapp\\Turn-based-combat-game\\Turn-based-combat-game\\Turn-based-combat-game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Ny mapp\\Turn-based-combat-game\\Turn-based-combat-game.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Ny mapp\\Turn-based-combat-game\\Turn-based-combat-game\\Turn-based-combat-game.csproj",
         "projectName": "Turn-based-combat-game",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Ny mapp\\Turn-based-combat-game\\Turn-based-combat-game.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Ny mapp\\Turn-based-combat-game\\Turn-based-combat-game\\Turn-based-combat-game.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Ny mapp\\Turn-based-combat-game\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Ny mapp\\Turn-based-combat-game\\Turn-based-combat-game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
